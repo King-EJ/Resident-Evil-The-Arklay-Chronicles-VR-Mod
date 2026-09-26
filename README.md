@@ -20,7 +20,7 @@ WHAT IT DOES
 
 INSTALL
 -------
-1. Copy EVERYTHING in this zip into the RETAC game folder (the folder that contains the game's
+1. Copy EVERYTHING in this zip [RETAC-VR-Mod](<https://github.com/King-EJ/Resident-Evil-The-Arklay-Chronicles-VR-Mod/releases/tag/Resident.Evil.The.Arklay.Chronicles>) into the RETAC game folder (the folder that contains the game's
    .exe and its "_Data" folder). You should end up with winhttp.dll and doorstop_config.ini
    next to the .exe, and a BepInEx folder beside them.
 2. Start your OpenXR runtime (e.g. SteamVR) and make sure it is set as the ACTIVE OpenXR runtime.
