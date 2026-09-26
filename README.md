@@ -32,18 +32,28 @@ To uninstall: delete winhttp.dll (or set enabled = false in doorstop_config.ini)
 CONTROLS (right-handed default)
 -------------------------------
 Gun hand (right)
+----------------
   Trigger ............ Shoot  /  click on the floating screen
   Grip (hold) ........ Aim (the game's Fire2)
+  
   A .................. Interact / examine / confirm
+  
   B .................. Reload  /  back in menus
+  
   Stick left/right ... Smooth turn (120 degrees)
+  
   Stick up/down ...... Navigate menus
 
 Off hand (left)
+---------------
   Stick .............. Move (forward = where you look)
+  
   Trigger ............ Run
+  
   Grip ............... Skip Menu (title screen)
+  
   X .................. Inventory (Tab)
+  
   Y .................. Next Weapon
 
 Both stick clicks ..... Re-centre the view
@@ -55,12 +65,16 @@ There are separate binding sets for gameplay and for menus/inventory.
 SETTINGS WORTH KNOWING (retac.vr.cfg)
 -------------------------------------
 [General]  LeftHanded, SnapTurn, SnapTurnAngle, SmoothTurnSpeed, MovementDirection (Head/OffHand)
+
 [Camera]   EyeHeightOffset, EyeForwardOffset, AnchorSmoothing (lower = less head bob),
            HideHead, CopyCameraEffects, DisableFlatCameraRendering, MirrorToDesktop
+           
 [Weapons]  WeaponInHand, HideArms, LaserSight (Aiming/Always/Off),
            WeaponPositionOffset / WeaponRotationOffset (to fine-tune how the gun sits in your hand),
            AimRotationOffset (the pointing direction of the controller), AutoAimWithTrigger
+           
 [UI]       Distance, Width, HeightOffset, FollowAngle
+
 [General]  VerboseLogging = true  gives much more detail in the log when something is wrong.
 
 TROUBLESHOOTING
