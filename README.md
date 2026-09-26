@@ -1,4 +1,4 @@
-RETAC VR  -  VR mod for "Resident Evil: The Arklay Chronicles" (BETA 1.19, Unity 2021.3.32f1 Mono x64)
+RETAC VR  -  VR mod for "Resident Evil: The Arklay Chronicles"
 =====================================================================================================
 
 Version 0.1.0 (first test build, tested in a Quest 3 headset with Virtual Desltop).
