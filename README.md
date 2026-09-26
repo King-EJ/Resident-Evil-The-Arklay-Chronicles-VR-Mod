@@ -128,10 +128,16 @@ CHANGES
        Player body is invisible during gameplay (shadow kept) - new HideBody setting.
        View no longer lags behind the head when walking/running
 
+Know Issues
+-----------
+Blood splash away from enemies
+
+2 weapons laser not align good
+
 CREDITS & LICENCES
 ------------------
 * RETAC by Lord DeeJay.
-* OpenXR.dll (the native OpenXR bridge) by Astien (c) 2025, from the MousePI_VR mod. It is
+* OpenXR.dll (the native OpenXR bridge) by Astien (c) 2025, from the [MousePI_VR](<https://discord.com/channels/1001138422972432597/1523984295633490031/1541072649634189372>) mod. It is
   redistributed here under its "Free Redistribution or Modification, No Commercial Use" licence.
   See BepInEx\plugins\RetacVR\LICENSES. This mod and its bridge must stay free of charge.
 * The rig/UI/input approach follows Astien's VRMod framework design.
