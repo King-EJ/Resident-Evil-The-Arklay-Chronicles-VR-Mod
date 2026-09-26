@@ -27,7 +27,9 @@ INSTALL
 3. Launch the game normally. It takes a few seconds for VR to start after the game window opens.
 4. Keep the game window focused on the desktop (click it once if the controls stop responding).
 
-To uninstall: delete winhttp.dll (or set enabled = false in doorstop_config.ini).
+GET THE GAME HERE: [Resident Evil The Arklay Chronicles](<https://gamejolt.com/games/retac/694117>)
+
+To uninstall Mod: delete winhttp.dll (or set enabled = false in doorstop_config.ini).
 
 CONTROLS (right-handed default)
 -------------------------------
