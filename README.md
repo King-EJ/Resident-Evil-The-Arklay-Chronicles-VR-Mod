@@ -29,7 +29,7 @@ INSTALL
 
 GET THE GAME HERE: [Resident Evil The Arklay Chronicles](<https://gamejolt.com/games/retac/694117>)
 
-To uninstall Mod: delete winhttp.dll (or set enabled = false in doorstop_config.ini).
+To disable Mod: rename winhttp.dll to winhttp.dll.bak or  win http.dll  (or set enabled = false in doorstop_config.ini).
 
 CONTROLS (right-handed default)
 -------------------------------
